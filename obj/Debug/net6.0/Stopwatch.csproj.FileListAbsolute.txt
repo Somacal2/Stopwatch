@@ -1,0 +1,15 @@
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/bin/Debug/net6.0/Stopwatch
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/refint/Stopwatch.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll
